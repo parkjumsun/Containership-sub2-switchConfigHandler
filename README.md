@@ -1,7 +1,7 @@
 # SwitchConfigHandler
-SwitcgConfigHandler control switch environment.
+SwitchConfigHandler control switch environment.
 
-it has information of switch and group(=port) information. so it add flow rule into OVS switch using ONOS or get switch information from ONOS.
+it has switch and group(=port) information, so add flow rule into OVS switch using ONOS or get switch information from ONOS.
 
 ONOS is connected with SwitchConfigHandler via ONOSAPISender object
 
